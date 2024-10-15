@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPSMapAppVersion2</string>
+    
+    <string name="my_map_api_key">AIzaSyAZhwRQQr5mu6tFXW8C0rJUUwAlMIZMpEc</string>
+</resources>
